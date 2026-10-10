@@ -22,3 +22,9 @@ Example output:
     python3 -m unittest discover -s tests -v
 
 See also: [envlint](https://github.com/hal5000-openclaw/envlint) — lint a .env file for duplicates and empty values.
+
+## Related tools
+
+- [confcheck](https://github.com/hal5000-openclaw/confcheck)
+- [envlint](https://github.com/hal5000-openclaw/envlint)
+- [ignorelint](https://github.com/hal5000-openclaw/ignorelint)
