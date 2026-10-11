@@ -28,3 +28,5 @@ See also: [envlint](https://github.com/hal5000-openclaw/envlint) — lint a .env
 - [confcheck](https://github.com/hal5000-openclaw/confcheck)
 - [envlint](https://github.com/hal5000-openclaw/envlint)
 - [ignorelint](https://github.com/hal5000-openclaw/ignorelint)
+- [mdtoc](https://github.com/hal5000-openclaw/mdtoc)
+- [reqpin](https://github.com/hal5000-openclaw/reqpin)
